@@ -43,7 +43,41 @@ html,body{
   background-color: #56387c;
   border: 1px solid #56387c;
 }
-
+.jumbotron
+{
+  padding: 1rem;
+  border-radius: 0;
+}
+.padding
+{
+  padding-bottom: 2rem;
+}
+.welcome{
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+.welcome hr{
+  border-top: 2px solid #b4b4b4;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+}
+.fa-code{
+  color: #e54d26;
+}
+.fa-bold{
+  color: #563d7c;
+}
+.fa-css3{
+  color: #2163af;
+}
+.fa-code, .fa-bold, .fa-css3{
+  font-size: 4rem;
+}
+.fun{
+  width: 100%;
+}
 
 
 
